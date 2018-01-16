@@ -18,6 +18,7 @@ int main(int argc, char const *argv[]) {
       segundoNum = sigNumero;
     }
     printf("%d\n", sigNumero);
+	printf("adasfaf");
   }
   return 0;
 }
